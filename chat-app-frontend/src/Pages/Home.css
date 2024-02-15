@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+/* Styles outside media query */
+.App {
+  min-height: 100vh;
+}
+
+/* Media query */
+@media screen and (max-width: 768px) {
+  /* Styles for screens with a maximum width of 768 pixels */
+  .App {
+    /* Add specific styles for smaller screens */
+  }
+}
+
+/* Add more media queries as needed */
